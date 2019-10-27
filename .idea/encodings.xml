@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Battle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Bigbossdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Character.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Character.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Choosedialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Choosedialog1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Equipdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Equipment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Fightdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Filedialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Gameframe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Homedialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Item.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Itemdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Mappanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Monster.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Music.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Player.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Player.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Propdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Skill.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Statedialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Statepanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/Textdialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/boss.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/countydialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/BorderToBreak/incident.java" charset="GBK" />
+  </component>
+</project>
